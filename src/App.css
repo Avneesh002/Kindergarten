@@ -1,0 +1,8 @@
+@import url("https://fonts.googleapis.com/css2?family=Pangolin&display=swap");
+
+* {
+  font-family: "Pangolin";
+  /* font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif; */
+  margin: 0px;
+  padding: 0px;
+}
